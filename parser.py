@@ -60,7 +60,6 @@ def populate_json():
     # Step 5: Get the last modified date
     last_modified = input("Enter the last modified date (dd-mm-yyyy): ").strip()
 
-    # Create the new item
     new_item = {
         "name": name,
         "preview": preview_link,
