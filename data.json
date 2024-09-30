@@ -1,56 +1,81 @@
 {
-  "dsa": {
-    "practical": [
-      {
-        "name": "DSA practical no.1 (Introduction to logic gates)",
-        "preview": "https://drive.google.com/file/d/1JKgkeaUBXWT51s7cftmmstV81SxwIDOi/view?usp=drivesdk",
-        "download": "https://drive.google.com/uc?export=download&id=1JKgkeaUBXWT51s7cftmmstV81SxwIDOi",
-        "lastModified": "22-09-2024"
-      },
-      {
-        "name": "DSA practical no.2 (Simplify and realise the given expresssion)",
-        "preview": "https://drive.google.com/file/d/1HfzsgTzSfx-FGxvQIBvpbn9IGEFCYOkw/view?usp=drivesdk",
-        "download": "https://drive.google.com/uc?export=download&id=1HfzsgTzSfx-FGxvQIBvpbn9IGEFCYOkw",
-        "lastModified": "22-09-2024"
-      },
-      {
-        "name": "DSA practical no.3 (Half and full adder)",
-        "preview": "https://drive.google.com/file/d/1JHqqSXGYcRp41Z13VWHlW6Zrl1tv7YOP/view?usp=drivesdk",
-        "download": "https://drive.google.com/uc?export=download&id=1JHqqSXGYcRp41Z13VWHlW6Zrl1tv7YOP",
-        "lastModified": "22-09-2024"
-      },
-      {
-        "name": "DSA practical no.4 (Half and full subtarctor)",
-        "preview": "https://drive.google.com/file/d/1JcNkL-eYAruxPYQRPhxf2lbi4WhKmf3D/view?usp=drivesdk",
-        "download": "https://drive.google.com/uc?export=download&id=1JcNkL-eYAruxPYQRPhxf2lbi4WhKmf3D",
-        "lastModified": "22-09-2024"
-      },
-      {
-        "name": "DSA practical no.5 (Flip-flop)",
-        "preview": "https://drive.google.com/file/d/1JdgsrFDJveYFPAacMDw6vPonf_aWkGDQ/view?usp=drivesdk",
-        "download": "https://drive.google.com/uc?export=download&id=1JdgsrFDJveYFPAacMDw6vPonf_aWkGDQ",
-        "lastModified": "22-09-2024"
-      }
-    ],
-    "assignment": [
-      {
-        "name": "Assignment no. 1",
-        "preview": "https://drive.google.com/file/d/1HpCyAVz3V4ibbAKAGp6atRTRAsuWd9_e/view?usp=drivesdk",
-        "download": "https://drive.google.com/uc?export=download&id=1HpCyAVz3V4ibbAKAGp6atRTRAsuWd9_e",
-        "lastModified": "21-09-2024"
-      },
-      {
-        "name": "Assignment no. 2",
-        "preview": "https://drive.google.com/file/d/1HsW2yIjAEclF351nxcw4T_x9_FdYFVUx/view?usp=drivesdk",
-        "download": "https://drive.google.com/uc?export=download&id=1HsW2yIjAEclF351nxcw4T_x9_FdYFVUx",
-        "lastModified": "21-09-2024"
-      },
-      {
-        "name": "Assignment no. 3",
-        "preview": "https://drive.google.com/file/d/1Hsy3TmuBnHQq1-VNtGXKAGE1U1ilyk_b/view?usp=drivesdk",
-        "download": "https://drive.google.com/uc?export=download&id=1Hsy3TmuBnHQq1-VNtGXKAGE1U1ilyk_b",
-        "lastModified": "21-09-2024"
-      }
-    ]
-  }
+    "dsa": {
+        "practical": [
+            {
+                "name": "DSA practical no.1 (Introduction to logic gates)",
+                "preview": "https://drive.google.com/file/d/1JKgkeaUBXWT51s7cftmmstV81SxwIDOi/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1JKgkeaUBXWT51s7cftmmstV81SxwIDOi",
+                "lastModified": "22-09-2024"
+            },
+            {
+                "name": "DSA practical no.2 (Simplify and realise the given expresssion)",
+                "preview": "https://drive.google.com/file/d/1HfzsgTzSfx-FGxvQIBvpbn9IGEFCYOkw/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1HfzsgTzSfx-FGxvQIBvpbn9IGEFCYOkw",
+                "lastModified": "22-09-2024"
+            },
+            {
+                "name": "DSA practical no.3 (Half and full adder)",
+                "preview": "https://drive.google.com/file/d/1JHqqSXGYcRp41Z13VWHlW6Zrl1tv7YOP/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1JHqqSXGYcRp41Z13VWHlW6Zrl1tv7YOP",
+                "lastModified": "22-09-2024"
+            },
+            {
+                "name": "DSA practical no.4 (Half and full subtarctor)",
+                "preview": "https://drive.google.com/file/d/1JcNkL-eYAruxPYQRPhxf2lbi4WhKmf3D/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1JcNkL-eYAruxPYQRPhxf2lbi4WhKmf3D",
+                "lastModified": "22-09-2024"
+            },
+            {
+                "name": "DSA practical no.5 (Flip-flop)",
+                "preview": "https://drive.google.com/file/d/1JdgsrFDJveYFPAacMDw6vPonf_aWkGDQ/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1JdgsrFDJveYFPAacMDw6vPonf_aWkGDQ",
+                "lastModified": "22-09-2024"
+            },
+            {
+                "name": "DSA practical no.6 (Verify the operation of counter)",
+                "preview": "https://drive.google.com/file/d/1M4-m5gkMjCTxp1rLJxiYgwgmbQ1rkJY4/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1M4-m5gkMjCTxp1rLJxiYgwgmbQ1rkJY4",
+                "lastModified": "29-09-2024"
+            },
+            {
+                "name": "DSA practical no.7 (4-Bit shift register operation)",
+                "preview": "https://drive.google.com/file/d/1M88FH-i44XVwpbU6xZ-CizkfiODgnjTn/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1M88FH-i44XVwpbU6xZ-CizkfiODgnjTn",
+                "lastModified": "29-09-2024"
+            }
+        ],
+        "assignment": [
+            {
+                "name": "Assignment no. 1",
+                "preview": "https://drive.google.com/file/d/1HpCyAVz3V4ibbAKAGp6atRTRAsuWd9_e/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1HpCyAVz3V4ibbAKAGp6atRTRAsuWd9_e",
+                "lastModified": "21-09-2024"
+            },
+            {
+                "name": "Assignment no. 2",
+                "preview": "https://drive.google.com/file/d/1HsW2yIjAEclF351nxcw4T_x9_FdYFVUx/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1HsW2yIjAEclF351nxcw4T_x9_FdYFVUx",
+                "lastModified": "21-09-2024"
+            },
+            {
+                "name": "Assignment no. 3",
+                "preview": "https://drive.google.com/file/d/1Hsy3TmuBnHQq1-VNtGXKAGE1U1ilyk_b/view?usp=drivesdk",
+                "download": "https://drive.google.com/uc?export=download&id=1Hsy3TmuBnHQq1-VNtGXKAGE1U1ilyk_b",
+                "lastModified": "21-09-2024"
+            }
+        ]
+    },
+    "los": {
+        "assignment": [
+            {
+                "name": "Assignment no. 1",
+                "preview": "",
+                "download": "",
+                "lastModified": ""
+            }
+        ]
+    },
+    "python": {
+        "assignment": []
+    }
 }
