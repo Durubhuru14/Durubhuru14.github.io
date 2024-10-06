@@ -74,10 +74,16 @@
   "los": {
     "assignment": [
       {
-        "name": "Assignment no. 1",
-        "preview": "",
-        "download": "",
-        "lastModified": ""
+        "name": "LOS assignment no.1",
+        "preview": "https://drive.google.com/file/d/1NGRk3YWLwhVQnTqdz9VebgoyiaCIIm_E/view?usp=drivesdk",
+        "download": "https://drive.google.com/uc?export=download&id=1NGRk3YWLwhVQnTqdz9VebgoyiaCIIm_E",
+        "lastModified": "06-10-2024"
+      },
+      {
+        "name": "LOS assignment no.2",
+        "preview": "https://drive.google.com/file/d/1NYiz_4YCrtbkDdQ9NUTOInA1QN4h5snE/view?usp=drivesdk",
+        "download": "https://drive.google.com/uc?export=download&id=1NYiz_4YCrtbkDdQ9NUTOInA1QN4h5snE",
+        "lastModified": "06-10-2024"
       }
     ]
   },
