@@ -1,4 +1,4 @@
-[
+{
   "dsa": {
     "practical": [
       {
@@ -8,7 +8,7 @@
         "lastModified": "22-09-2024"
       },
       {
-        "name": "DSA practical no.2 (Simplify and realise the given expresssion)",
+        "name": "DSA practical no.2 (Simplify and realise the given expression)",
         "preview": "https://drive.google.com/file/d/1HfzsgTzSfx-FGxvQIBvpbn9IGEFCYOkw/view?usp=drivesdk",
         "download": "https://drive.google.com/uc?export=download&id=1HfzsgTzSfx-FGxvQIBvpbn9IGEFCYOkw",
         "lastModified": "22-09-2024"
@@ -20,7 +20,7 @@
         "lastModified": "22-09-2024"
       },
       {
-        "name": "DSA practical no.4 (Half and full subtarctor)",
+        "name": "DSA practical no.4 (Half and full subtractor)",
         "preview": "https://drive.google.com/file/d/1JcNkL-eYAruxPYQRPhxf2lbi4WhKmf3D/view?usp=drivesdk",
         "download": "https://drive.google.com/uc?export=download&id=1JcNkL-eYAruxPYQRPhxf2lbi4WhKmf3D",
         "lastModified": "22-09-2024"
@@ -90,5 +90,4 @@
   "python": {
     "assignment": []
   }
-]
-
+}
