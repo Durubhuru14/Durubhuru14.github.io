@@ -1,4 +1,4 @@
-{
+[
   "dsa": {
     "practical": [
       {
@@ -90,5 +90,5 @@
   "python": {
     "assignment": []
   }
-}
+]
 
