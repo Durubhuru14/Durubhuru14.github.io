@@ -70,12 +70,7 @@
         "lastModified": "05-10-2024"
       }
     ],
-    "notes": {
-      "name": "DSA notes",
-      "preview": "",
-      "download": "",
-      "lastModified": ""
-    }
+    "notes": {}
   },
   "los": {
     "assignment": [
@@ -92,20 +87,10 @@
         "lastModified": "06-10-2024"
       }
     ],
-    "notes": {
-      "name": "LOS notes",
-      "preview": "",
-      "download": "",
-      "lastModified": ""
-    }
+    "notes": {}
   },
   "python": {
     "assignment": [],
-    "notes": {
-      "name": "Python notes",
-      "preview": "",
-      "download": "",
-      "lastModified": ""
-    }
+    "notes": {}
   }
 }
