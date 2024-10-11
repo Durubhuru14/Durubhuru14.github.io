@@ -69,7 +69,13 @@
         "download": "https://drive.google.com/uc?export=download&id=1ND5rvtmA1IPsNKXPv9pzVFufRZMm_oxP",
         "lastModified": "05-10-2024"
       }
-    ]
+    ],
+    "notes": {
+      "name": "DSA notes",
+      "preview": "",
+      "download": "",
+      "lastModified": ""
+    }
   },
   "los": {
     "assignment": [
@@ -85,9 +91,21 @@
         "download": "https://drive.google.com/uc?export=download&id=1NYiz_4YCrtbkDdQ9NUTOInA1QN4h5snE",
         "lastModified": "06-10-2024"
       }
-    ]
+    ],
+    "notes": {
+      "name": "LOS notes",
+      "preview": "",
+      "download": "",
+      "lastModified": ""
+    }
   },
   "python": {
-    "assignment": []
+    "assignment": [],
+    "notes": {
+      "name": "Python notes",
+      "preview": "",
+      "download": "",
+      "lastModified": ""
+    }
   }
 }
